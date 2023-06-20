@@ -1,0 +1,1 @@
+railway run npm install chromedriver
