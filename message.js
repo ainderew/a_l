@@ -1,6 +1,6 @@
 import { Builder, until, By, Key } from 'selenium-webdriver';
 import chrome from 'selenium-webdriver/chrome.js';
-import { config } from './config';
+import { config } from './config.js';
 
 const URL = config.M_URL;
 
